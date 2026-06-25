@@ -10,7 +10,7 @@
 
 // --- GSM A9 Modul (RX=D6, TX=D5) ---
 SoftwareSerial A9Serial(6, 5);
-const String TARGET_PHONE = "+38268803522";
+const String TARGET_PHONE = "+38268160144";
 
 // --- RFID Čitač (SPI: MOSI=11, MISO=12, SCK=13) ---
 #define RST_PIN  9
